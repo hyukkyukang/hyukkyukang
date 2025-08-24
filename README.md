@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello :smiley:
 
-<!--
-**hyukkyukang/hyukkyukang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hyukkyu Kang, a Ph.D. candidate in Computer Science and Engineering at Pohang University of Science and Technology (POSTECH).
+My work centers on developing robust information retrieval systems and their synergy with large language models. 
+In recent months, I've grown particularly excited about Physical AI, with a specific emphasis on leveraging retrieval-augmented large language models to bridge AI capabilities with real-world physical environments and interactions.
 
-Here are some ideas to get you started:
+## Research Interests
+- Large-scale Information Retrieval Systems
+- Retrieval-Augmented Language Models
+- Training Large Language Models with Retrieval Integration
+- Physical AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- E-mail: hkkang@dblab.postech.ac.kr
+- Google scholar: https://scholar.google.com/citations?user=LsKcmV8AAAAJ&hl
+- LinkedIn: https://www.linkedin.com/in/hyukkyu-kang-826171118/
+- Personal website: https://hyukkyukang.github.io
