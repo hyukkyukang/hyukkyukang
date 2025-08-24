@@ -11,7 +11,7 @@ In recent months, I've grown particularly excited about Physical AI, with a spec
 - Physical AI
 
 ## Contact
-- E-mail: hkkang@dblab.postech.ac.kr
+- E-mail: hyukkyukang@gmail.com
 - Google scholar: https://scholar.google.com/citations?user=LsKcmV8AAAAJ&hl
 - LinkedIn: https://www.linkedin.com/in/hyukkyu-kang-826171118/
 - Personal website: https://hyukkyukang.github.io
