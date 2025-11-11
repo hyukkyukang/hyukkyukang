@@ -8,7 +8,6 @@ In recent months, I've grown particularly excited about Physical AI, with a spec
 - Large-scale Information Retrieval Systems
 - Retrieval-Augmented Language Models
 - Training Large Language Models with Retrieval Integration
-- Physical AI
 
 ## Contact
 - E-mail: hyukkyukang@gmail.com
